@@ -1,0 +1,33 @@
+body {
+    font-family: calibri, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.nameplate,
+.quote {
+    width: 50%;
+    min-width: 500px;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nameplate {
+    margin-top: 20%;
+    clear: both;
+}
+
+.quote {
+    margin-top: 4%;
+    text-align: center;
+}
+
+.headshot {
+    width: 15%;
+    float: left;
+}
+
+.bio {
+    margin-left: 20%;
+}
