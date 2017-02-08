@@ -2,7 +2,8 @@
 <html>
 <head>
 
-    <link rel="stylesheet" href="styles/styles.css" />
+<title>Hi, I'm Barbara!</title>
+<link rel="stylesheet" href="styles/styles.css" />
 
 </head>
 <body>
@@ -12,7 +13,7 @@
     <div class="bio">
         <h1>Hi, I'm Barbara!</h1>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm a front-end web developer living in the Boston, Massachusetts, area, trying to get up to speed on the rest of the web development stack. I enjoy a good challenge, but I really appreciate learning things from experienced people even more, so I'm taking this class. My two dogs keep me company while I'm coding, unless there are squirrels outside - then we switch jobs, and I keep them company outside while they chase down those fierce beasts.
         </p>
     </div>
 </section>
